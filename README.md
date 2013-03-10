@@ -1,0 +1,4 @@
+skalata
+=======
+
+Katas in Scala
